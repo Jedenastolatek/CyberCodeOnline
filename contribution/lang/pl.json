@@ -1808,7 +1808,7 @@
  	 	 	 	 	"eng": "Send private message"
  	 	 	 	},
  	 	 	 	"sendGift": {
- 	 	 	 	 	"trans": "Wysłać prezent",
+ 	 	 	 	 	"trans": "Wyślij prezent",
  	 	 	 	 	"eng": "Send Gift"
  	 	 	 	},
  	 	 	 	"inviteToGang": {
@@ -1816,7 +1816,7 @@
  	 	 	 	 	"eng": "Invite to Gang"
  	 	 	 	},
  	 	 	 	"addToFriend": {
- 	 	 	 	 	"trans": "Add to Friend List",
+ 	 	 	 	 	"trans": "Dodaj do listy znajomych",
  	 	 	 	 	"eng": "add to Friend List"
  	 	 	 	},
  	 	 	 	"removeFromFriend": {
